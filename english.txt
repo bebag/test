@@ -1,0 +1,3 @@
+Infinitive,Past,Participle,Translation
+to be,was/were,been,etre
+to have,had/had,had,avoir
